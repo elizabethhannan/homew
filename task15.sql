@@ -1,0 +1,1 @@
+SELECT State, Count(*) FROM Customer GROUP BY State HAVING count(*);

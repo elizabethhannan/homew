@@ -1,0 +1,1 @@
+SELECT c.FirstName, c.LastName,(SELECT total FROM Invoice ORDER BY total desc) FROM Customer c limit 1;

@@ -1,0 +1,3 @@
+CustomerId             FirstName                       LastName                                    Company     Address                City        State       Country     PostalCode  Phone       Fax         Email                  SupportRepId
+---------------------  ------------------------------  ------------------------------------------  ----------  ---------------------  ----------  ----------  ----------  ----------  ----------  ----------  ---------------------  ------------
+60                     Tamas                           Keki                                        BGF         11.13 Buzogany Street  Budapest                Hungary     1149                                tattarattta@gmail.com              

@@ -1,0 +1,3 @@
+CustomerId  FirstName   LastName  
+----------  ----------  ----------
+13          Fernanda    Ramos     

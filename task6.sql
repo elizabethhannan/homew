@@ -1,0 +1,1 @@
+SELECT   distinct(Country) FROM Customer;

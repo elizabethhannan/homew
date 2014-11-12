@@ -1,0 +1,1 @@
+SELECT c.FirstName, c.LastName, c.Country FROM Customer c JOIN Invoice i on c.CustomerId=i.CustomerId GROUP BY i.BillingCountry HAVING count(BillingCountry)>10;

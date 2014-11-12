@@ -1,0 +1,1 @@
+UPDATE Customer SET PostalCode="1111" Where Company="BGF";

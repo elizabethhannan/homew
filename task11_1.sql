@@ -1,0 +1,1 @@
+Select * FROM Customer WHERE Company="BGF";
